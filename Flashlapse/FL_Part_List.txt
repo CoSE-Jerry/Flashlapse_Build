@@ -1,0 +1,19 @@
+Individually Addressable LED Strip Light:
+https://www.amazon.com/ALITOVE-Individually-Addressable-Flexible-Waterproof/dp/B019DYZNO6/ref=sr_1_1?ie=UTF8&qid=1505276752&sr=8-1&keywords=neopixel%2B144&th=1
+
+Raspberry Pi 3 & 2.5A Micro USB Power Supply
+https://www.amazon.com/CanaKit-Raspberry-Micro-Supply-Listed/dp/B01C6FFNY4/ref=sr_1_6?s=electronics&ie=UTF8&qid=1505277387&sr=1-6&keywords=raspberry+pi+3
+
+Raspberry Pi Camera Module V2 with focusing tool
+https://www.amazon.com/LANDZO-Raspberry-Pi-Camera-Module/dp/B071WP2MGS/ref=sr_1_13?s=electronics&ie=UTF8&qid=1505277453&sr=1-13&keywords=raspberry%2Bcamera&th=1
+
+Multicolored Dupont Wire
+https://www.amazon.com/Elegoo-120pcs-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_1_sspa?ie=UTF8&qid=1505277575&sr=8-1-spons&keywords=jumper+wires&psc=1
+
+UNO R3 Board
+https://www.amazon.com/Elegoo-Board-ATmega328P-ATMEGA16U2-Arduino/dp/B01EWOE0UU/ref=sr_1_2_sspa?s=industrial&ie=UTF8&qid=1505277638&sr=1-2-spons&keywords=arduino&psc=1
+
+Prototype Shield For Arduino UNO R3
+https://www.amazon.com/Gikfun-Prototype-Shield-Arduino-Ek1038x3/dp/B00Q9YB7PI/ref=sr_1_4?s=electronics&ie=UTF8&qid=1505277801&sr=1-4&keywords=prototype+Shield
+ 
+
