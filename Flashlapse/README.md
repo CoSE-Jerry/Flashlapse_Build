@@ -18,7 +18,7 @@ method two:
 	6. left click on menu (top left raspberry icon), click "Preferences" -> "Raspberry Pi Configuration" -> "Interfaces"
 	7. set "Camera" and "VNC" to enable (VNC allows you to connect to the pi without monitor, keyboard, or mouse)
 	8. click OK and agree to reboot
-	6. use a fat32 (can be formatted to)flash drive to copy "inject.sh" to the desktopof raspberry pi
+	6. use a fat32 (can be formatted to)flash drive to copy "inject.sh and credentials.txt" to the desktop of raspberry pi
 	7. open up terminal (click black box on the top left corner)
 	8. excecute command "sh /home/pi/Desktop/inject.sh" (without the " s) this might take a while depending on your network connection and how out of date your original image is
 	9. respond to all prompts with yes (Y)
