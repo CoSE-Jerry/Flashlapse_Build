@@ -22,7 +22,7 @@ method two:
 	7. open up terminal (click black box on the top left corner)
 	8. excecute command "sh /home/pi/Desktop/inject.sh" (without the " s) this might take a while depending on your network connection and how out of date your original image is
 	9. respond to all prompts with yes (Y)
-	10. when asked about access token copy over from the credentials file "nmyx0SMmLQAAAAAAAAMb4ZvmCjxnkIJ6zI00v8JaBNpICIFmxZ7sW7g07Bh2AWku"(without the " s, in raspberry pi, copy and paste is "ctrl + shift + c" and "ctrl + shift +v")
+	10. when asked for access token copy over from the credentials file "nmyx0SMmLQAAAAAAAAMb4ZvmCjxnkIJ6zI00v8JaBNpICIFmxZ7sW7g07Bh2AWku"(without the " s, in terminal, copy and paste is "ctrl + shift + c" and "ctrl + shift + v")
 	11. right click on desktop to open Desktop Preferences and change text color to somthing more readable.
 	12. double click flashlapse icon on the desktop to run the program
 
