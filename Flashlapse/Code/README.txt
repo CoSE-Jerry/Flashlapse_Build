@@ -37,6 +37,13 @@ to set up flashlapse environment on arduino:
 	3. open Arduino_Control_Code
 		select the correct port, and upload code
 
+To Upgrade to 1.5
+	1.download Arduino_Control_Code_v1.5
+	2.select the correct port, and upload code
+	3.if that doesn't work, update "Adafruit_NeoPixel" library to the latest version
+	4.on the raspebrry pi, copy "update_v.1.5.sh" to the desktop 
+	5.open up terminal run the command "sh /home/pi/Desktop/update_v.1.5.sh"  
+
 
 Tips and Tricks:
 	1. always connect raspberry pi with arduino before running the program
